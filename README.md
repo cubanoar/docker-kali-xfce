@@ -6,7 +6,7 @@ al cual podemos acceder con cualquier herramienta de escritorio remoto por el pu
 
 "este paso es opcional, ya que con el siguiente, si no tienen la imagen en local, la descarga"
 
-**docker pull cubanoar/kali** 
+**docker pull cubanoar/kali:v1** 
 
 ## Creamos el contenedor
 
