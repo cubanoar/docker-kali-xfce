@@ -27,7 +27,7 @@ Abrimos cualquier herramienta para conectarnos a un escritorio remoto, en W10 po
 
 Listo tenemos KaliLinux corriendo en un contenedor con interfaz gráfica y todo, lo podemos hacer con otras distros tambien!!!!
 
-A la hora de correr de nuevo el kali, no usamos el <<run>>, lo hacemos asi:
+A la hora de correr de nuevo el kali, no usamos el <<run anterior>>, lo hacemos asi:
 
 **docker start -i kali_xfce**
 
