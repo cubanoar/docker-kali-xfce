@@ -1,6 +1,6 @@
 # docker-kali-xfce
 Imagen de kali con un script <<install.sh>> en su raiz <</>> el cual nos instala un server xrdp y xfce para una interfaz gráfica
-al cual podemos acceder con cualquier herramienta de escritorio remoto por el puerto 3390 de nuestro pc, debemos tener instalado docker.
+al cual podemos acceder con cualquier herramienta de escritorio remoto por el puerto <<localhost:3390>> de nuestro pc, debemos tener instalado docker.
 
 ### Abrimos una terminal
 
